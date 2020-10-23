@@ -1,2 +1,2 @@
 # Trabalho POO
- FADERGS
+ Herança
